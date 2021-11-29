@@ -14,7 +14,7 @@ The overall passing percentage for the district fell to 64.9%
 The overall passing percentage for Thomas High School decrase from 90% to 65%
 
 Thomas High School is not longer to Top 5 School.
-![THS_before_change](Resources/THS_before_ change.png)
+![THS_before_change](Resources/THS_before_change.png)
 ![THS_after_change](Resources/THS_after_change.png)
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Relative ranking for THOMAS HS changed from 2ND to 8TH,
