@@ -3,9 +3,9 @@
 The school board  find academic dishonesty at 9th in Thomas High Schoold and find asked Maria to replace the math and reading scores at 9th for Thomas High School with NaNs while keeping the rest of the data intact. I report to describe how these changes affected the overall analysis. It will help School Boards to decide to next year budget
 ## Results 
 
-###Replacing the ninth graders' math and reading scores with NaN resulted in the following changes for Thomas High School(THS):
-
-
+### Replacing the ninth graders' math and reading scores with NaN resulted in the following changes for Thomas High School(THS):
+Pass rate of Math from 93% to 66%
+Pass rate of Math from 97% to 69%
 
 ### How is the district summary affected?
 ![district_summary](Resources/district_summary.png)
@@ -30,5 +30,5 @@ AFTER cleanup: # of Student Thomas High School       1174
 #### Scores by school type
 Thomas High School is Charter. Charter school is still better than district 
 ![Type-dis](Resources/Type-dis.png)
-##Summary
+## Summary
 After the make 9th grade of Thomas High School become the nan, THS's rank is from 2rd to 8th (out of Top 5). The pass rate of passing math and reading is from 90% to 65%.  The school size of THS is from 1635 to 1174. However the overall of charter is still better than district.
