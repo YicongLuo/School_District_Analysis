@@ -7,7 +7,7 @@ The school board  find academic dishonesty at 9th in Thomas High Schoold and fin
 Pass rate of Math from 93% to 66%
 
 Pass rate of Math from 97% to 69%
-![THS_before_ change](Resources/THS_before_ change.png)
+![THS_before_change](Resources/THS_before_change.png)
 
 ![THS_after_change](Resources/THS_after_change.png)
 ### How is the district summary affected?
