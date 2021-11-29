@@ -12,7 +12,7 @@ Pass rate of Math from 97% to 69%
 The overall passing percentage for the district fell to 64.9%
 ### How is the school summary affected?
 The overall passing percentage for Thomas High School decrase from 90% to 65%
-
+/
 Thomas High School is not longer to Top 5 School.
 ![THS_before_change](Resources/THS_before_change.png)
 ![THS_after_change](Resources/THS_after_change.png)
