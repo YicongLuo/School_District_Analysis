@@ -6,16 +6,18 @@ The school board  find academic dishonesty at 9th in Thomas High Schoold and fin
 ### Replacing the ninth graders' math and reading scores with NaN resulted in the following changes for Thomas High School(THS):
 Pass rate of Math from 93% to 66%
 Pass rate of Math from 97% to 69%
-
+![THS_before_change](Resources/THS_before_change.png)
+![THS_after_change](Resources/THS_after_change.png)
 ### How is the district summary affected?
 ![district_summary](Resources/district_summary.png)
+
 The overall passing percentage for the district fell to 64.9%
 ### How is the school summary affected?
 The overall passing percentage for Thomas High School decrase from 90% to 65%
-/
+
 Thomas High School is not longer to Top 5 School.
-![THS_before_change](Resources/THS_before_change.png)
-![THS_after_change](Resources/THS_after_change.png)
+
+
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Relative ranking for THOMAS HS changed from 2ND to 8TH,
 ### How does replacing the ninth-grade scores affect the following:
